@@ -5,5 +5,5 @@
 -->
 - 🌱 I’m currently living in Berlin.
 -:tada: I just finished 9 weeks bootcamp of Le Wagon in Munich.
-- 👯 Now time to searching for a job as junior fullstack web developer
+- 👯 Now time to search for a job as junior fullstack web developer
 - 📫 How to reach me **xinchu-gao@outlook.com**
